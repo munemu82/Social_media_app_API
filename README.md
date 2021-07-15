@@ -11,4 +11,5 @@ The app is a simple social media app that allows users to register, create profi
 
 ## 3. REST API Endpoints
 * Users
+  * Nested bullet
 * Posts
