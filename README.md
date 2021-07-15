@@ -11,5 +11,10 @@ The app is a simple social media app that allows users to register, create profi
 
 ## 3. REST API Endpoints
 * Users
-  * Nested bullet
+  * Register user: http://<hostname/IP>/api/auth/register
+  * Get a specific user: http://<hostname/IP>/api/auth/<userID> (Using GET http method)
+  * Update user: http://<hostname/IP>/api/auth/<userId>  (Using PUT http method)
+  * Delete user: http://<hostname/IP>/api/auth/<userId>  (Using DELETE http method)
+  * Follow a user: http://<hostname/IP>/api/users/<userId/follow
+  * Unfollow a user: http://<hostname/IP>/api/users/<userId/unfollow                                                                                                          
 * Posts
