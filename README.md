@@ -16,4 +16,6 @@ The app is a simple social media app that allows users to register, create profi
   * Update user: http://<hostname/IP>/api/auth/<userId>  (Using PUT http method)
   * Delete user: http://<hostname/IP>/api/auth/<userId>  (Using DELETE http method)
   * Follow a user: http://<hostname/IP>/api/users/<userId/follow  (Using PUT http method)
-  * Unfollow a user: http://<hostname/IP>/api/users/<userId/unfollow (Using PUT http method)                                                                                       * Posts
+  * Unfollow a user: http://<hostname/IP>/api/users/<userId/unfollow (Using PUT http method)                                                                                       
+* Posts
+                                                                     
