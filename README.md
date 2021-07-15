@@ -24,5 +24,9 @@ The app is a simple social media app that allows users to register, create profi
   * Like/dislike a post: http://<hostname/IP>/api/posts/<postId>/like (Using PUT http method) 
   * Get a specific post: http://<hostname/IP>/api/posts/<postId> (Using GET http method)
   * Get timeline posts (for the current user): http://<hostname/IP>/api/posts/timeline/all (Using GET http method)
-                                                                     
+
+ ## 4. Using the code 
+    After cloning/downloading perform the following 
+ * Setup
+ * Installation and run the code in your environment
                                                                      
