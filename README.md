@@ -28,7 +28,7 @@ The app is a simple social media app that allows users to register, create profi
  ## 4. Using the code 
  After cloning/downloading perform the following 
  * Setup
-   * In the root folder, create a file called ".env" add MONGO_URL = <YOUR MongoDB connection URI>
+   * In the root folder, create a file called ".env" add MONGO_URL = YOUR MongoDB connection URI
  * Installation and run the code in your environment by running the following commands
    * yarn install  (to install all required packages/libraries, make sure you are on the app root folder)
    * yarn start (to run the code)
